@@ -9,7 +9,7 @@ r_utf8_parser can encode the utf-8 codes in the files output from R
 ### Prerequisites
 
 ```
-python 3.5
+python 2.7/3.5
 re
 codecs
 
