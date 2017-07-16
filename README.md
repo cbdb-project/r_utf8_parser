@@ -1,6 +1,6 @@
 # r_utf8_parser
 
-r_utf8_parser can encode in the text files write by R
+r_utf8_parser can encode the utf-8 codes in the files output from R
 
 ---
 
